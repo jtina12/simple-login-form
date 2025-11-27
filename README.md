@@ -1,5 +1,5 @@
 # simple-login-form
-A minimalist and fully responsive login form component built purely with HTML and modern CSS (using Tailwind CSS for utility classes). This project serves as a clean, ready-to-use template for user authentication pages in any web application. 
+A minimalist and fully responsive login form component built purely with HTML and modern CSS . This project serves as a clean, ready-to-use template for user authentication pages in any web application. 
 This is a Simple Responsive Login Form component built purely with HTML5 and modern CSS3 for styling.
 
 It's designed to be a clean, ready-to-use template for user authentication, prioritizing a strong user experience and professional aesthetics.
