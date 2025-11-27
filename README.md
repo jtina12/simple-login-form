@@ -5,7 +5,7 @@ This is a Simple Responsive Login Form component built purely with HTML5 and mod
 It's designed to be a clean, ready-to-use template for user authentication, prioritizing a strong user experience and professional aesthetics.
 
 Key Highlights:
-Technology: Pure HTML and CSS (specifically using Tailwind for rapid, utility-first styling). No JavaScript is required for the component's structure or appearance.
+Technology: Pure HTML and CSS . No JavaScript is required for the component's structure or appearance.
 
 Design: It employs a mobile-first approach, ensuring the form looks great on small screens (taking up almost the full width) and then scaling up to a professional, centered card-like container with subtle shadows on desktop.
 
